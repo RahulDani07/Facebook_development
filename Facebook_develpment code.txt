@@ -11,3 +11,7 @@ Author: Rahul
 4)attachments(image,audio and files)
 
 5)Hiding the last seen
+
+6)adding audio feature
+
+7)adding video feature
