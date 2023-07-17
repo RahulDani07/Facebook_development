@@ -9,3 +9,5 @@ Author: Rahul
 3)last seen code
 
 4)attachments(image,audio and files)
+
+5)Hiding the last seen
